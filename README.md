@@ -1,134 +1,202 @@
+
 <h1 align="center">Hi 👋, I'm Ashish Katiyar</h1>
 <h3 align="center">Frontend Engineer with Full-Stack Experience</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=55&lines=React+%7C+TypeScript+%7C+Accessible+UI;Frontend+focus.+Full-stack+perspective.;Building+from+interface+to+deployment." alt="Frontend Engineer with Full-Stack Experience — building accessible web applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=55&lines=React+%7C+TypeScript+%7C+Accessible+UI;Frontend+focus.+Full-stack+perspective.;Building+from+interface+to+deployment." alt="Frontend Engineer with Full-Stack Experience" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashish-katiyar-42b194158/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:katiyarashish24@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ashish" /></a>
-  <a href="https://github.com/ashishkatiyar2404?tab=repositories"><img src="https://img.shields.io/badge/GitHub-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse my repositories" /></a>
+  <a href="https://www.linkedin.com/in/ashish-katiyar-42b194158/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:katiyarashish24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ashish" />
+  </a>
+  <a href="https://github.com/ashishkatiyar2404?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse my repositories" />
+  </a>
 </p>
 
-<p align="center"><b>📍 Indore, India · Open to opportunities · Immediate joiner · Open to relocate</b></p>
+<p align="center">
+  <b>📍 Indore, India · Open to opportunities · Immediate joiner · Open to relocate</b>
+</p>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 About Me
 
-I'm a **Frontend Engineer with 4+ years of professional experience**, building responsive, accessible web applications with React and TypeScript. My work includes Stanford Medicine applications at Vertisystem and enterprise dashboards at TCS. I also build full-stack projects with Node.js, Express, and MongoDB.
+I'm a **Frontend Engineer with 4+ years of professional experience**, building responsive, accessible, and high-performance web applications using **React.js, JavaScript, and TypeScript**.
 
-- 🎨 **Frontend first:** reusable components, multi-step forms, data tables, and intuitive user flows.
-- ♿ **Usability matters:** keyboard navigation, clear validation, loading states, and error handling.
-- 🧪 **Tested behavior:** Jest, React Testing Library, and Playwright.
-- 🔌 **Beyond the UI:** REST APIs, authentication, MongoDB, and real-time messaging.
-- 🚀 **End-to-end ownership:** built and deployed DevConnect on AWS EC2.
+My professional experience includes developing healthcare applications for **Stanford Medicine at Vertisystem** and modernizing enterprise dashboards at **Tata Consultancy Services (TCS)**.
 
-## 🛠️ Technologies I work with
+Alongside frontend development, I have hands-on experience with **Node.js, Express.js, MongoDB, REST APIs, authentication, real-time communication, and AWS deployments**.
+
+- 🎨 **Frontend Development:** React.js, TypeScript, reusable components, responsive UI, and intuitive user experiences.
+- ⚡ **Performance Optimization:** Memoization, lazy loading, code splitting, debouncing, pagination, and rendering optimization.
+- ♿ **Accessibility:** Semantic HTML, keyboard navigation, ARIA attributes, and accessible form validation.
+- 🧪 **Testing:** Jest, React Testing Library, and Playwright.
+- 🔌 **Backend Development:** REST APIs, JWT authentication, Express.js, MongoDB, and Socket.IO.
+- 🚀 **Deployment:** AWS EC2, GitHub Actions, and CI/CD workflows.
+- 🤝 **Collaboration:** Agile development, code reviews, UI/UX collaboration, and cross-functional teamwork.
+
+---
+
+## 🛠️ Technologies I Work With
+
+### Frontend Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,html,css,tailwind,materialui&perline=8" alt="React, TypeScript, JavaScript, Redux, HTML, CSS, Tailwind CSS, Material UI" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,jest,git,vite,aws&perline=8" alt="Node.js, Express, MongoDB, Firebase, Jest, Git, Vite, AWS" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,html,css,tailwind,materialui&perline=8" alt="Frontend Technologies" />
+</p>
+
+### Backend, Testing & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,jest,git,vite,aws&perline=8" alt="Backend and Development Tools" />
 </p>
 
 <details>
-<summary><b>View my full tech stack</b></summary>
+<summary><b>View My Complete Tech Stack</b></summary>
 
-| Area | Technologies |
-| --- | --- |
-| Frontend | React.js, TypeScript, JavaScript, HTML5, CSS3 |
-| State and routing | Redux Toolkit, React Router |
-| UI and forms | Material UI, MUI DataGrid, Tailwind CSS, daisyUI, Formik, Yup |
+| Category | Technologies |
+|----------|--------------|
+| Frontend | React.js, JavaScript ES6+, TypeScript, HTML5, CSS3 |
+| State Management | Redux Toolkit, React Redux, Context API |
+| Routing | React Router |
+| UI Libraries | Material UI, MUI DataGrid, Tailwind CSS, daisyUI |
+| Forms & Validation | Formik, Yup, React Hook Form |
 | Testing | Jest, React Testing Library, Playwright |
-| APIs and backend | Axios, REST APIs, Node.js, Express, MongoDB, Mongoose, Socket.IO |
-| Tools and deployment | Git, GitHub, GitLab, Vite, Postman, Swagger, AWS EC2 |
-
+| Backend | Node.js, Express.js, REST APIs |
+| Database | MongoDB, Mongoose |
+| Authentication | JWT, HTTP-only Cookies, bcrypt |
+| Real-Time | Socket.IO |
+| Development Tools | Git, GitHub, GitLab, Postman, Swagger, Vite |
+| Cloud & Deployment | AWS EC2, GitHub Actions, CI/CD |
 
 </details>
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Featured Projects
 
-### 🤝 DevConnect
+### 🤝 DevConnect — Developer Networking Platform
 
-A full-stack networking application where developers can discover one another, send connection requests, and chat once connected.
+A **full-stack networking application** that helps developers discover, connect, and communicate with other developers.
 
-- Built registration, login, profile editing, developer discovery, and connection management.
-- Implemented real-time messaging with Socket.IO and conversation history stored in MongoDB.
-- Used JWT authentication, HTTP-only cookies, bcrypt password hashing, and server-side validation.
-- Deployed the frontend and backend on AWS EC2.
+**Key Features:**
 
-**Stack:** React · Redux Toolkit · Tailwind CSS · daisyUI · Node.js · Express · MongoDB · Socket.IO
+- Developed secure user registration, login, profile management, and authentication workflows.
+- Built a developer discovery feed with interested/ignored functionality.
+- Implemented connection requests with accept and reject features.
+- Developed real-time one-to-one messaging using **Socket.IO**.
+- Implemented JWT authentication using HTTP-only cookies and bcrypt password hashing.
+- Designed RESTful APIs using Node.js and Express.js.
+- Used MongoDB and Mongoose for database operations.
+- Deployed frontend and backend applications on AWS EC2.
+- Implemented frontend CI/CD deployment using GitHub Actions.
 
-[Frontend code](https://github.com/ashishkatiyar2404/devConnect_FE) · [Backend code](https://github.com/ashishkatiyar2404/devConnect_BE) · [Live demo](http://15.252.185.126/)
+**Tech Stack:** React 19 · Redux Toolkit · Tailwind CSS · daisyUI · Node.js · Express.js · MongoDB · Socket.IO
+
+🔗 [Frontend Repository](https://github.com/ashishkatiyar2404/devConnect_FE) · [Backend Repository](https://github.com/ashishkatiyar2404/devConnect_BE) · [Live Demo](http://15.252.185.126/)
+
+---
 
 ### 🎬 Netflix GPT — AI Streamer
 
 A Netflix-inspired movie discovery application with AI-powered recommendations.
 
-- Integrated the Gemini API for movie suggestions based on user-entered prompts.
-- Used TMDB APIs for movie data and Firebase for authentication.
-- Managed user, movie, and search state with Redux Toolkit.
-- Built responsive interfaces, reusable components, custom hooks, and multilingual search UI support.
+**Key Features:**
 
-**Stack:** React · Redux Toolkit · Tailwind CSS · Firebase · TMDB API · Gemini API
+- Integrated the Gemini API to generate movie recommendations from user prompts.
+- Used TMDB APIs for movie information and discovery.
+- Implemented Firebase authentication.
+- Managed application state using Redux Toolkit.
+- Developed responsive interfaces using React and Tailwind CSS.
+- Created reusable components, custom hooks, and multilingual search functionality.
 
-[Source code](https://github.com/ashishkatiyar2404/netflix-gpt) · [Live demo](https://aistreamer.netlify.app/)
+**Tech Stack:** React · Redux Toolkit · Tailwind CSS · Firebase · TMDB API · Gemini API
 
-### 📺 React Video Library
-
-A personal React video library project.
-
-[Source code](https://github.com/ashishkatiyar2404/react-video-lib)
-
+🔗 [Source Code](https://github.com/ashishkatiyar2404/netflix-gpt) · [Live Demo](https://aistreamer.netlify.app/)
 
 ---
 
-## 💼 Professional experience
+### 📺 React Video Library
 
-**Software Engineer · Vertisystem Global Pvt. Ltd.**  
-May 2023 – November 2025
+A React-based video library project focused on reusable UI components and frontend development.
 
-Contributed to Stanford Medicine's Financial Aid and Participant Engagement applications. Built reusable React interfaces, form workflows, conditional validation, and data-intensive views using Material UI. Worked on accessibility, REST API integration, and automated UI testing with Jest, React Testing Library, and Playwright.
+🔗 [Source Code](https://github.com/ashishkatiyar2404/react-video-lib)
 
-**Frontend Engineer · Tata Consultancy Services**  
-March 2021 – September 2022
+---
 
-Helped modernize an enterprise dashboard with React. Built responsive screens and reusable UI components, and simplified key workflows through nested routing and improved navigation.
+## 💼 Professional Experience
 
+### Software Engineer | Vertisystem Global Pvt. Ltd.
+**May 2023 – November 2025**
 
-## 📊 GitHub activity
+Worked on healthcare applications for **Stanford Medicine**, including the Financial Aid and Participant Engagement platforms.
+
+- Developed reusable React components and responsive user interfaces.
+- Implemented complex multi-step forms with conditional fields and Yup validation.
+- Built data-intensive dashboards, tables, filters, and dynamic UI workflows.
+- Integrated REST APIs for retrieving, updating, and submitting application data.
+- Improved usability and accessibility through semantic HTML, validation feedback, and keyboard navigation.
+- Created automated UI tests using Jest and React Testing Library.
+- Collaborated with backend developers, QA engineers, and UI/UX designers.
+
+### Frontend Engineer | Tata Consultancy Services
+**March 2021 – September 2022**
+
+Contributed to enterprise dashboard modernization using React.js.
+
+- Migrated legacy interfaces to modern React components.
+- Developed responsive pages and reusable UI components.
+- Implemented nested routing to improve navigation and simplify user workflows.
+- Built interactive tables, filters, modals, tabs, and dynamic forms.
+- Collaborated with development and QA teams to deliver maintainable frontend solutions.
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <a href="https://github.com/ashishkatiyar2404">
-    <img src="https://github-readme-stats.vercel.app/api?username=ashishkatiyar2404&show_icons=true&hide_rank=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&hide_border=true" alt="Ashish Katiyar's public GitHub statistics" />
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=ashishkatiyar2404&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true"
+      alt="Ashish Katiyar GitHub Statistics"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ashishkatiyar2404?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkatiyar2404&layout=compact&langs_count=6&theme=transparent&title_color=38BDF8&hide_border=true" alt="Languages represented in my public GitHub repositories" />
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=ashishkatiyar2404&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+      alt="Most Used Programming Languages"
+    />
   </a>
 </p>
 
-<sub>These cards reflect public repository activity, not all professional work. Language proportions describe repository code, not proficiency.</sub>
+<sub>These statistics reflect public GitHub repositories and contributions. Language distribution represents repository code, not professional proficiency.</sub>
 
-[View my GitHub profile and contributions](https://github.com/ashishkatiyar2404)
+[View My GitHub Profile and Contributions](https://github.com/ashishkatiyar2404)
 
 ---
 
-## 📬 Let's connect
+## 📬 Let's Connect
 
-I'm open to **Frontend Engineer, React Developer, and UI Engineer** opportunities.
+I'm currently open to opportunities as a **Frontend Engineer, React Developer, UI Engineer, or SDE II Frontend**.
 
-If your team is building a useful web product, I'd love to discuss how I can contribute.
+I enjoy building scalable, accessible, and user-friendly applications and collaborating with teams to solve real-world problems.
 
-- **Email:** [katiyarashish24@gmail.com](mailto:katiyarashish24@gmail.com)
-- **LinkedIn:** [Ashish Katiyar](https://www.linkedin.com/in/ashish-katiyar-42b194158/)
-- **Location:** Indore, India — open to relocate
+- 📧 **Email:** [katiyarashish24@gmail.com](mailto:katiyarashish24@gmail.com)
+- 💼 **LinkedIn:** [Ashish Katiyar](https://www.linkedin.com/in/ashish-katiyar-42b194158/)
+- 💻 **GitHub:** [ashishkatiyar2404](https://github.com/ashishkatiyar2404)
+- 📍 **Location:** Indore, India
+- 🚀 **Availability:** Immediate Joiner | Open to Relocate
 
-<!-- Visual widgets use third-party services: readme-typing-svg, skill-icons, Shields.io, and GitHub Readme Stats. They may be cached or temporarily unavailable. No token is required for these public embeds. -->
+---
 
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
