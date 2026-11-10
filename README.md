@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I am Ashish Katiyar</h1>
 
-<h3 align="center">
-  Frontend Engineer with Full-Stack Experience
-</h3>
+<h3 align="center">Frontend Engineer with Full-Stack Experience</h3>
 
 <p align="center">
   <img
@@ -13,6 +11,9 @@
 </p>
 
 <p align="center">
+  <a href="https://ashishkatiyarportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/ashish-katiyar-42b194158/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -30,15 +31,15 @@
 
 ---
 
-## 👨‍💻 About Me [Ashish Katiyar Portfolio](https://ashishkatiyarportfolio.netlify.app/)
+## 👨‍💻 About Me
 
-I am a **Frontend Engineer with 4+ years of professional experience**, specializing in building responsive, accessible, and high-performance web applications using **React.js, JavaScript, and TypeScript**.
+I am a **Frontend Engineer with 4+ years of professional experience**, specializing in responsive, accessible, and high-performance web applications using **React.js, JavaScript, and TypeScript**.
 
 My professional experience includes developing healthcare applications for **Stanford Medicine at Vertisystem** and modernizing enterprise dashboards at **Tata Consultancy Services (TCS)**.
 
-Beyond frontend development, I have hands-on experience building full-stack applications with **Node.js, Express.js, MongoDB, REST APIs, JWT authentication, Socket.IO, and AWS**.
+Beyond frontend development, I have hands-on experience building full-stack applications using **Node.js, Express.js, MongoDB, REST APIs, JWT authentication, Socket.IO, and AWS**.
 
-- 🎨 **Frontend Engineering:** React.js, TypeScript, reusable components, responsive design, and intuitive user experiences.
+- 🎨 **Frontend Engineering:** React.js, TypeScript, reusable components, responsive UI, and intuitive user experiences.
 - ⚡ **Performance Optimization:** Memoization, lazy loading, code splitting, debouncing, pagination, and rendering optimization.
 - ♿ **Accessibility:** Semantic HTML, keyboard navigation, ARIA attributes, and accessible forms.
 - 🧪 **Testing:** Jest, React Testing Library, and Playwright.
@@ -53,19 +54,13 @@ Beyond frontend development, I have hands-on experience building full-stack appl
 ### Frontend Technologies
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=react,ts,js,redux,html,css,tailwind,materialui&perline=8"
-    alt="React, TypeScript, JavaScript, Redux, HTML, CSS, Tailwind, Material UI"
-  />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,html,css,tailwind,materialui&perline=8" alt="React, TypeScript, JavaScript, Redux, HTML, CSS, Tailwind, Material UI" />
 </p>
 
 ### Backend, Testing & Tools
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,jest,git,vite,aws&perline=8"
-    alt="Node, Express, MongoDB, Firebase, Jest, Git, Vite, AWS"
-  />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,jest,git,vite,aws&perline=8" alt="Node, Express, MongoDB, Firebase, Jest, Git, Vite, AWS" />
 </p>
 
 <details>
@@ -94,7 +89,7 @@ Beyond frontend development, I have hands-on experience building full-stack appl
 
 ### 🤝 DevConnect — Developer Networking Platform
 
-A **full-stack developer networking application** that enables developers to discover, connect, and communicate with other developers through a modern, responsive interface.
+A **full-stack developer networking application** that enables developers to discover, connect, and communicate through a modern, responsive interface.
 
 **Key Features:**
 
@@ -119,7 +114,7 @@ A **full-stack developer networking application** that enables developers to dis
 
 ### 🎬 Netflix GPT — AI Streamer
 
-A Netflix-inspired movie discovery application that combines a responsive streaming interface with **AI-powered movie recommendations**.
+A Netflix-inspired movie discovery application combining a responsive streaming interface with **AI-powered movie recommendations**.
 
 **Key Features:**
 
@@ -140,18 +135,18 @@ A Netflix-inspired movie discovery application that combines a responsive stream
 
 ### 🌊 Wave Library — AnimeStream
 
-A modern, **YouTube-inspired anime video streaming application** built using React 18 and Redux Toolkit, featuring responsive video browsing, cinema-mode playback, personalized playlists, and watch history.
+A modern **YouTube-inspired anime video streaming application** built using React 18 and Redux Toolkit, featuring responsive video browsing, cinema-mode playback, personalized playlists, and watch history.
 
 **Key Features:**
 
 - Designed a fully responsive YouTube-style interface with adaptive sidebar and mobile bottom navigation.
-- Built a **cinema-mode video player** with embedded playback and personalized video recommendations.
+- Built a **cinema-mode video player** with embedded playback and video recommendations.
 - Implemented video search, category filtering, Watch Later, playlists, and watch history.
-- Used **Redux Toolkit** with multiple feature slices to manage application state.
-- Implemented asynchronous API workflows using `createAsyncThunk` and memoized filtering with `createSelector`.
+- Used **Redux Toolkit** with feature slices to manage application state.
+- Implemented asynchronous workflows using `createAsyncThunk` and memoized filtering with `createSelector`.
 - Optimized performance through **React.lazy, Suspense, lazy-loaded images, and shimmer loading skeletons**.
 - Developed protected routes and one-click Guest Login with a **MirageJS mock backend**.
-- Configured SPA routing and Netlify redirects to support direct navigation and page refreshes.
+- Configured SPA routing and Netlify redirects for direct navigation and page refreshes.
 
 **Tech Stack:** React 18 · JavaScript ES6+ · Redux Toolkit · React Router v6 · ReactPlayer · MirageJS · CSS3 · Netlify
 
@@ -163,20 +158,20 @@ A modern, **YouTube-inspired anime video streaming application** built using Rea
 
 ### 📝 WaveNote — Minimalist Notes Workspace
 
-A modern, **Notion-inspired note-taking application** designed with warm minimalist aesthetics and pastel claymorphic cards, providing an elegant workspace for organizing ideas, tasks, and daily activities.
+A **Notion-inspired note-taking application** featuring warm minimalist aesthetics and pastel claymorphic cards, designed for organizing notes, ideas, and daily tasks.
 
 **Key Features:**
 
 - Developed complete **CRUD functionality** for creating, editing, viewing, archiving, and deleting notes.
-- Implemented note categorization using tags and priority levels (High, Medium, Low).
+- Implemented note categorization using tags and priority levels.
 - Built real-time search across note titles, content, and tags.
-- Added advanced filtering based on tags, priorities, and creation dates.
+- Added filtering based on tags, priorities, and creation dates.
 - Designed customizable pastel note cards with multiple color themes.
-- Implemented **React Context API and useReducer** for modular application state management.
+- Implemented **React Context API and useReducer** for application state management.
 - Developed authentication flows with protected routes, persistent sessions, and one-click Guest Login.
 - Implemented archive, trash recovery, and permanent deletion workflows.
-- Built a **MirageJS mock backend** to simulate REST API operations and authentication.
-- Designed a responsive, accessible interface with modern CSS and custom styling.
+- Built a **MirageJS mock backend** for simulated API operations and authentication.
+- Designed a responsive interface using modern CSS.
 
 **Tech Stack:** React 18 · React Router v6 · Context API · useReducer · MirageJS · JavaScript · CSS3 · Netlify
 
@@ -220,23 +215,17 @@ Contributed to enterprise dashboard modernization using React.js.
 
 <p align="center">
   <a href="https://github.com/ashishkatiyar2404">
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=ashishkatiyar2404&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true"
-      alt="Ashish Katiyar GitHub Statistics"
-    />
+    <img src="https://github-stats-extended.vercel.app/api?username=ashishkatiyar2404&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ashishkatiyar2404?tab=repositories">
-    <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=ashishkatiyar2404&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
-      alt="Most Used Programming Languages"
-    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ashishkatiyar2404&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Programming Languages" />
   </a>
 </p>
 
-<sub>Statistics reflect public GitHub repositories and contributions. Language distribution represents repository code, not professional proficiency.</sub>
+<sub>Statistics reflect public repositories and contributions. Language distribution represents repository code, not professional proficiency.</sub>
 
 [View My GitHub Profile and Contributions](https://github.com/ashishkatiyar2404)
 
@@ -248,6 +237,7 @@ I'm currently open to opportunities as a **Frontend Engineer, React Developer, U
 
 I enjoy building scalable, accessible, and user-friendly web applications while collaborating with teams to solve real-world problems.
 
+- 🌐 **Portfolio:** [Ashish Katiyar Portfolio](https://ashishkatiyarportfolio.netlify.app/)
 - 📧 **Email:** [katiyarashish24@gmail.com](mailto:katiyarashish24@gmail.com)
 - 💼 **LinkedIn:** [Ashish Katiyar](https://www.linkedin.com/in/ashish-katiyar-42b194158/)
 - 💻 **GitHub:** [ashishkatiyar2404](https://github.com/ashishkatiyar2404)
